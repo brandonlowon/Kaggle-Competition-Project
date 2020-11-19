@@ -23,5 +23,5 @@ The dataset I received is from https://www.kaggle.com/c/titanic/data
 
 The models I hope to employ in this class are : LogisticRegression, RandomForest, GradientBoosting, and SVC
 
-Helpful functions I believe will be necessary for this project are: LabelEncoders, seaborn plots, correlation heat maps, confusion matrices, cross validation
+Helpful functions I believe will be necessary for this project are: LabelEncoders, seaborn plots, correlation heat maps, confusion matrices, cross validation, grid search trees for some models.
 
