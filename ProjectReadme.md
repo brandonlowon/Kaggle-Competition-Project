@@ -33,6 +33,8 @@ Here is where you include:
   ***
   pip install mglearn
   
+  *My Conclusion can also be found at the bottom of my notebook file*
+
   ## Conclusion
   ### What types of people were likely to survive the Titanic?
   
